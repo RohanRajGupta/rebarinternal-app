@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "21REBARLTD. - Admin",
+    "slug": "21REBARLTD",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "21REBARLTD. - Admin"
+}
